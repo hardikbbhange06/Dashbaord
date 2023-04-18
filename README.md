@@ -1,5 +1,13 @@
 # Getting Started with Create React App
-<!--  https://github.com/hardikbbhange06?tab=repositories  -->
+ https://github.com/hardikbbhange06?tab=repositories  
+ 
+## First, please download the zip file and extract it to a convenient location on your computer.
+
+Next, open your terminal and navigate to the directory where the extracted files are located.
+
+In the terminal, type the following command: "npm install react-scripts --save." This will install the necessary dependencies for the React application to run.
+
+Once the installation is complete, type "npm run start" in the terminal. This will start the development server and open the React application in your default web browser.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
